@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="center" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/603031ef62e49f1474b0745e/1619141012231-LCWBUTRTKW6IAIUZD52M/Attachment_1619106712+%281%29.gif?format=1000w">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hars310&label=Profile%20views&color=0e75b6&style=flat" alt="hars310" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hars310" alt="hars310" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/harshku84153287" target="blank"><img src="https://img.shields.io/twitter/follow/harshku84153287?logo=twitter&style=for-the-badge" alt="harshku84153287" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap,React**
 
-- 👨‍💻 All of my projects are available at [https://hars310.github.io/Webportfolio](https://hars310.github.io/Webportfolio)
-
 - 💬 Ask me about **CSS,HTML,DSA**
-
-- 📫 How to reach me **harshkumarsingh54321@gmail.com**
 
 - ⚡ Fun fact **I am young**
 
